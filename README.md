@@ -2,6 +2,6 @@
 
 file decrypter 
 
--- android plateform code
--- flutter method channel
+- android plateform code
+- flutter method channel
 
